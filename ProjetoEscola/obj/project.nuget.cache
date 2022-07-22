@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5MiviWYVQkG8IgRM+ObI/46pJNdxUn1axFcfnfFqs6RJ3T0REHVPEffBUe2D94bU5BH9gvuPYTLppvm+PJEZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elias\\Desktop\\ProjetoEscola\\ProjetoEscola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elias\\.nuget\\packages\\mysql.data\\6.9.12\\mysql.data.6.9.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+E:\ProjetoEscola\obj\Debug\ProjetoEscola.csprojAssemblyReference.cache
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.csprojAssemblyReference.cache
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.FrmAluno.resources
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.FrmCurso.resources
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.FrmLogin.resources
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.FrmMatricula.resources
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.FrmPrincipal.resources
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.FrmProfessor.resources
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.FrmUsuario.resources
+C:\Users\elias\Desktop\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.GenerateResource.cache

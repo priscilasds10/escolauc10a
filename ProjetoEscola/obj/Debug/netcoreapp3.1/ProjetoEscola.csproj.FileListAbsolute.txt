@@ -1,0 +1,13 @@
+E:\ProjetoEscola\bin\Debug\netcoreapp3.1\ProjetoEscola.exe
+E:\ProjetoEscola\bin\Debug\netcoreapp3.1\ProjetoEscola.deps.json
+E:\ProjetoEscola\bin\Debug\netcoreapp3.1\ProjetoEscola.runtimeconfig.json
+E:\ProjetoEscola\bin\Debug\netcoreapp3.1\ProjetoEscola.runtimeconfig.dev.json
+E:\ProjetoEscola\bin\Debug\netcoreapp3.1\ProjetoEscola.dll
+E:\ProjetoEscola\bin\Debug\netcoreapp3.1\ProjetoEscola.pdb
+E:\ProjetoEscola\obj\Debug\netcoreapp3.1\ProjetoEscola.csprojAssemblyReference.cache
+E:\ProjetoEscola\obj\Debug\netcoreapp3.1\ProjetoEscola.AssemblyInfoInputs.cache
+E:\ProjetoEscola\obj\Debug\netcoreapp3.1\ProjetoEscola.AssemblyInfo.cs
+E:\ProjetoEscola\obj\Debug\netcoreapp3.1\ProjetoEscola.csproj.CoreCompileInputs.cache
+E:\ProjetoEscola\obj\Debug\netcoreapp3.1\ProjetoEscola.dll
+E:\ProjetoEscola\obj\Debug\netcoreapp3.1\ProjetoEscola.pdb
+E:\ProjetoEscola\obj\Debug\netcoreapp3.1\ProjetoEscola.genruntimeconfig.cache
